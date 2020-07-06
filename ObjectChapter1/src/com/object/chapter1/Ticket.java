@@ -6,6 +6,12 @@ package com.object.chapter1;
 public class Ticket {
     private Long fee;
 
+    //티켓 값 설정
+    public Ticket(Long fee){
+        this.fee = fee;
+    }
+
+
     public Long getFee(){
         return fee;
     }

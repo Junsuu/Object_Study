@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0e268ece-f1d4-419d-9fcf-709b15b4a035" name="Default Changelist" comment="" />
+    <list default="true" id="0e268ece-f1d4-419d-9fcf-709b15b4a035" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/object/chapter1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/object/chapter1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/object/chapter1/Ticket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/object/chapter1/Ticket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/object/chapter1/TicketOffice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/object/chapter1/TicketOffice.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,15 +20,21 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1dOmwCRdE37tcO5rJeYeF5vTEbF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -35,6 +47,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -47,6 +64,8 @@
       <option name="presentableId" value="Default" />
       <updated>1592304749944</updated>
       <workItem from="1592304751702" duration="6410000" />
+      <workItem from="1592994698147" duration="246000" />
+      <workItem from="1593414893523" duration="6562000" />
     </task>
     <servers />
   </component>
@@ -58,13 +77,33 @@
       <screen x="57" y="23" width="1735" height="1097" />
     </state>
     <state x="737" y="282" key="#com.intellij.ide.util.MemberChooser/57.23.1735.1097@57.23.1735.1097" timestamp="1592459923383" />
-    <state x="589" y="266" key="run.anything.popup" timestamp="1592306372582">
+    <state width="1693" height="284" key="GridCell.Tab.0.bottom" timestamp="1593422257071">
       <screen x="57" y="23" width="1735" height="1097" />
     </state>
-    <state x="589" y="266" key="run.anything.popup/57.23.1735.1097@57.23.1735.1097" timestamp="1592306372582" />
-    <state x="589" y="268" width="670" height="676" key="search.everywhere.popup" timestamp="1592460017736">
+    <state width="1693" height="284" key="GridCell.Tab.0.bottom/57.23.1735.1097@57.23.1735.1097" timestamp="1593422257071" />
+    <state width="1693" height="284" key="GridCell.Tab.0.center" timestamp="1593422257070">
       <screen x="57" y="23" width="1735" height="1097" />
     </state>
-    <state x="589" y="268" width="670" height="676" key="search.everywhere.popup/57.23.1735.1097@57.23.1735.1097" timestamp="1592460017735" />
+    <state width="1693" height="284" key="GridCell.Tab.0.center/57.23.1735.1097@57.23.1735.1097" timestamp="1593422257070" />
+    <state width="1693" height="284" key="GridCell.Tab.0.left" timestamp="1593422257070">
+      <screen x="57" y="23" width="1735" height="1097" />
+    </state>
+    <state width="1693" height="284" key="GridCell.Tab.0.left/57.23.1735.1097@57.23.1735.1097" timestamp="1593422257070" />
+    <state width="1693" height="284" key="GridCell.Tab.0.right" timestamp="1593422257071">
+      <screen x="57" y="23" width="1735" height="1097" />
+    </state>
+    <state width="1693" height="284" key="GridCell.Tab.0.right/57.23.1735.1097@57.23.1735.1097" timestamp="1593422257071" />
+    <state x="573" y="404" key="com.intellij.ide.util.TipDialog" timestamp="1593414895982">
+      <screen x="57" y="23" width="1735" height="1097" />
+    </state>
+    <state x="573" y="404" key="com.intellij.ide.util.TipDialog/57.23.1735.1097@57.23.1735.1097" timestamp="1593414895982" />
+    <state x="589" y="266" width="670" height="675" key="run.anything.popup" timestamp="1593415994941">
+      <screen x="57" y="23" width="1735" height="1097" />
+    </state>
+    <state x="589" y="266" width="670" height="675" key="run.anything.popup/57.23.1735.1097@57.23.1735.1097" timestamp="1593415994941" />
+    <state x="589" y="268" width="670" height="676" key="search.everywhere.popup" timestamp="1593420049663">
+      <screen x="57" y="23" width="1735" height="1097" />
+    </state>
+    <state x="589" y="268" width="670" height="676" key="search.everywhere.popup/57.23.1735.1097@57.23.1735.1097" timestamp="1593420049663" />
   </component>
 </project>
